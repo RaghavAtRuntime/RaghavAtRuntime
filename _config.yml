@@ -82,11 +82,31 @@ content:
         sub_title: Unity Development intern
         caption: August 2020 - February 2021
         quote: >
-          a UK based Game Development company, prominent for its app, **Zamit**, helps educators and students learn, and play, better.
+          a UK based Game Development company, prominent for its app, Zamit, helps educators and students learn, and play, better.
         description: | # this will include new lines to allow paragraphs
           •	My first game on Zamit resulted in a 10% increase in the userbase with more than 400 likes, because of the innovative yet simple gameplay. My second game was ranked the most innovative and fun game on the app.
 
           •	I was put in charge of a second intern and worked alongside to complete several projects over a span of three months
+        
+        title: Goldman Sachs Virtual Work Experience Program
+        sub_title: Cybersecurity Intern
+        caption: May 2021
+        quote: >
+          The Goldman Sachs Group, Inc., is an American multinational investment bank and financial services company. It offers services in investment management, securities, asset management and more. 
+        description: |
+          •	As a cybersecurity intern, I had the chance to crack several passwords using software and identify weak spots in security protocols. I cracked around 50 passwords in the span of half an hour.
+          •	In the final leg, I was given an actual case from a Goldman Sachs data breach which I completed in four hours. 
+          •	I learned to use tools like brutus and automation scripts in python and batch
+
+        title: Automated Stock Management Project
+        sub_title: Python Developer
+        caption: June 2022
+        quote: >
+          The aim of the project was to develop a system to try and outperform the stock market in the long term using machine learning. It was partially successful. 
+        description: |
+          • As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
+          •	I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
