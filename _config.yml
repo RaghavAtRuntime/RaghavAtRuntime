@@ -84,9 +84,9 @@ content:
         quote: >
           a UK based Game Development company, prominent for its app, Zamit, helps educators and students learn, and play, better.
         description: | # this will include new lines to allow paragraphs
-          •	My first game on Zamit resulted in a 10% increase in the userbase with more than 400 likes, because of the innovative yet simple gameplay. My second game was ranked the most innovative and fun game on the app.
+          - My first game on Zamit resulted in a 10% increase in the userbase with more than 400 likes, because of the innovative yet simple gameplay. My second game was ranked the most innovative and fun game on the app.
 
-          •	I was put in charge of a second intern and worked alongside to complete several projects over a span of three months
+          - I was put in charge of a second intern and worked alongside to complete several projects over a span of three months
 
       - layout: left
         title: Goldman Sachs Virtual Work Experience Program
@@ -95,11 +95,11 @@ content:
         quote: >
           The Goldman Sachs Group, Inc., is an American multinational investment bank and financial services company. It offers services in investment management, securities, asset management and more.
         description: |
-          •	As a cybersecurity intern, I had the chance to crack several passwords using software and identify weak spots in security protocols. I cracked around 50 passwords in the span of half an hour.
+          - As a cybersecurity intern, I had the chance to crack several passwords using software and identify weak spots in security protocols. I cracked around 50 passwords in the span of half an hour.
 
-          •	In the final leg, I was given an actual case from a Goldman Sachs data breach which I completed in four hours. 
+          - In the final leg, I was given an actual case from a Goldman Sachs data breach which I completed in four hours. 
 
-          •	I learned to use tools like brutus and automation scripts in python and batch
+          - I learned to use tools like brutus and automation scripts in python and batch
 
       - layout: left
         title: Automated Stock Management Project
@@ -108,9 +108,9 @@ content:
         quote: >
           The aim of the project was to develop a system to try and outperform the stock market in the long term using machine learning. It was partially successful.
         description: |
-          • As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
+          - As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
 
-          •	I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
+          - I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
 
       - layout: left
         title: Munk School of Global Affairs and Public Policy, UofT
@@ -119,9 +119,9 @@ content:
         quote: >
 
         description: |
-          • As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
+          - As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
 
-          •	I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
+          - I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,7 +131,7 @@ content:
         caption: 2022 - Present
         sub_title: HBSc Statistics and Computer Science
         quote: >
-          The University of Toronto is a globally top-ranked public research university in Toronto, acclaimed for its research in Computer Science and its academically challenging environment.
+          The University of Toronto is a globally top-ranked public research university in Toronto, acclaimed for its research and its academically challenging environment.
         description: | # this will include new lines to allow paragraphs
           During my time at UofT I have learned many key skills that have benefitted me at my internships such as teamwork, working tight deadlines and personal motivation. As I progress through my courses, I'm learning a lot about quality of work, leadership and a healthy work-life balance.
 
@@ -140,14 +140,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in data science and software engineering some of my other interests and hobbies are:
       - Swimming
       - Gaming
-      - 
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Stock trading
+      - Playing with Atlas, my golden retriever!
 
 # Footer
 footer_show_references: true
