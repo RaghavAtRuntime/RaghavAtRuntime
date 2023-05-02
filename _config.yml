@@ -84,7 +84,8 @@ content:
         quote: >
           a UK based Game Development company, prominent for its app, **Zamit**, helps educators and students learn, and play, better.
         description: | # this will include new lines to allow paragraphs
-          •	My first game on Zamit resulted in a 10% increase in the userbase with more than 400 likes, because of the innovative yet simple gameplay. My second game was ranked the most innovative and fun game on the app.\n
+          •	My first game on Zamit resulted in a 10% increase in the userbase with more than 400 likes, because of the innovative yet simple gameplay. My second game was ranked the most innovative and fun game on the app.
+
           •	I was put in charge of a second intern and worked alongside to complete several projects over a span of three months
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
