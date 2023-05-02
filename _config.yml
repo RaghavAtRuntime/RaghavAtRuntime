@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Raghav and I'm a Computer Science and Statistics student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills.
+  Hi, my name's Raghav and I'm a Computer Science and Statistics student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills. I'm extremely interested in the field of financial/quantitative analysis!
 
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Java</mark>
 
@@ -96,7 +96,9 @@ content:
           The Goldman Sachs Group, Inc., is an American multinational investment bank and financial services company. It offers services in investment management, securities, asset management and more.
         description: |
           •	As a cybersecurity intern, I had the chance to crack several passwords using software and identify weak spots in security protocols. I cracked around 50 passwords in the span of half an hour.
+
           •	In the final leg, I was given an actual case from a Goldman Sachs data breach which I completed in four hours. 
+
           •	I learned to use tools like brutus and automation scripts in python and batch
 
       - layout: left
@@ -107,6 +109,7 @@ content:
           The aim of the project was to develop a system to try and outperform the stock market in the long term using machine learning. It was partially successful.
         description: |
           • As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
+
           •	I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
 
       - layout: left
@@ -117,6 +120,7 @@ content:
 
         description: |
           • As the lead developer in this start-up, I was in charge of back testing factor investment strategies, creating ML models, analysing trends and automating actions through the use of several technologies like python, quant-stats and data analysis techniques. 
+
           •	I applied the experience gained from my IB Diploma research project to optimize allocation ratios combining the yahoo finance API with the sklearn and numpy libraries.
 
   - title: Education # Title for the section
