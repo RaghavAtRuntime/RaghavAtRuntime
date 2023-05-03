@@ -79,7 +79,7 @@ content:
   - title: Ongoing Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: experiments with awesome-quant
         description: |
           This casual project is using wilson freitas' awesome-quant repository to do cool (albeit simple) things like naive portfolio construction and analysis. I started this to try to learn the finance side of ML.
