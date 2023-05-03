@@ -71,7 +71,13 @@ content:
           This movie recommendation system is based on graph structures, probably the best you can get out of a college student!
         description: | # this will include new lines to allow paragraphs
           I started this project as a part of a course requirement in <mark>Python</mark>. Since then, my team and I have worked on it to make it a functional app.
-
+  - title: Ongoing Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: experiments with awesome-quant
+        description: |
+          This casual project is using wilson freitas' awesome-quant repository to do cool (albeit simple) things like naive portfolio construction and analysis. I started this to try to learn the finance side of ML.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
