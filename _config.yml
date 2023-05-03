@@ -53,6 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Java</mark>
 
 content:
+  - title: Relevant Courses and Certifications
+    layout: text
+    content: |
+      - University of Toronto: Data Structures and Algorithms, Introduction to Data Science, Statistics
+      - Online Courses: Data Driven Astronomy (University of Sidney), Advanced Portfolio Construction and Analysis with Python (EDHEC)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
