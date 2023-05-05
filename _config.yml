@@ -31,9 +31,9 @@ linkedin_username: astroraghav04
 
 # Additional icon links
 additional_links:
-  - title: itsgoingto.be
+  - title: github.com/RaghavAtRuntime
     icon: fas fa-globe
-    url: https://www.itsgoingto.be
+    url: https://www.github.com/RaghavAtRuntime
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Raghav and I'm a Computer Science and Statistics student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills. I'm extremely interested in the field of financial/quantitative analysis!
+  Hi, my name is Raghav and I'm a Computer Science and Statistics student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills. I'm extremely interested in the field of financial/quantitative analysis!
 
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Java</mark>
 
