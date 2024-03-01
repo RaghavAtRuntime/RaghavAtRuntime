@@ -56,8 +56,8 @@ content:
   - title: Relevant Courses and Certifications
     layout: text
     content: |
-      - University of Toronto: Data Structures and Algorithms, Introduction to Data Science, Statistics
-      - Online Courses: Data Driven Astronomy (University of Sidney), Advanced Portfolio Construction and Analysis with Python (EDHEC)
+      - University of Toronto: Data Structures and Algorithms, Introduction to Data Science, Statistics and Probability I & II
+      - Online Courses: Data Driven Astronomy (University of Sidney), Advanced Portfolio Construction and Analysis with Python (EDHEC), Data Analytics Professional Certificate (IBM)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -147,10 +147,11 @@ content:
         quote: >
           The University of Toronto is a globally top-ranked public research university in Toronto, acclaimed for its research and its academically challenging environment.
         description: | # this will include new lines to allow paragraphs
-          During my time at UofT I have learned many key skills that have benefitted me at my internships such as teamwork, working tight deadlines and personal motivation. As I progress through my courses, I'm learning a lot about quality of work, leadership and a healthy work-life balance.
+        During my tenure at UofT, I acquired a plethora of invaluable skills that have significantly enhanced my performance during internships, notably in areas such as teamwork, meeting tight deadlines, and self-motivation. Additionally, as I advance through my coursework, I continuously develop my understanding of work quality, effective leadership, and the importance of maintaining a healthy work-life balance.
 
-          I've spent a lot of time participating in hackathons and clubs like the UofT stock trading club and the UofT Machine Intelligence Student Team which have helped me gain valuable technical skills in both finance and machine learning.
+        Serving as the VP of Academic Development at SDSS (Students in Data Science and Statistics), I refined my leadership and team management abilities through the organization and facilitation of technical workshops. This position frequently required me to leverage my adeptness in public speaking and delivering presentations.
 
+        My active involvement in hackathons and datathons has been instrumental in acquiring essential technical competencies in finance and machine learning, further bolstering my skill set.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
