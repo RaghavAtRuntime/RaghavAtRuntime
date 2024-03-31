@@ -154,9 +154,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and software engineering some of my other interests and hobbies are:
-      - Swimming
+      - Rock Climbing
       - Gaming
-      - Stock trading
+      - Squash
       - Playing with Atlas, my golden retriever!
 
 # Footer
