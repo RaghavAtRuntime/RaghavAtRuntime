@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Raghav Sinha
 title: Data Analyst and Software Developer
-email: astroraghav04@gmail.com
-website: www.github.com/RaghavAtRuntime
+email: raghav.sinha@mail.utoronto.ca
+website: www.github.com/RaghavAtRuntime/Portfolio
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Raghav and I'm a Computer Science and Statistics student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills. I'm extremely interested in the field of financial/quantitative analysis!
+  Hi, my name is Raghav and I'm a Statistics, Economics and Computer Science student at the University of Toronto. Besides data analysis, I also have experience making software and web apps. I have worked on a number of data science and software projects and for several organizations, gaining teamwork and leadership skills. I'm extremely interested in the field of financial/quantitative analysis!
 
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Java</mark>
 
@@ -69,9 +69,6 @@ content:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This movie recommendation system is based on graph structures, probably the best you can get out of a college student!
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +86,7 @@ content:
       - layout: left
         title: CGI Inc.
         sub_title: Software Engineer Intern
-        caption: June 2023 - September 2023
+        caption: June 2023 - August 2023
         quote: >
         description: |
           - Programmed scripts in Python to automate SLA and Maintenance Mode data transformations, enhancing business efficiency.
